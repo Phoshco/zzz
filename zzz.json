@@ -8,7 +8,7 @@
         "region": "Proxies",
         "rarity": 5,
         "directory": "zzz/chars/Belle/Belle",
-        "image": "ZZZ/Belle.png",
+        "image": "zzz/ZZZ/Belle.png",
         "pmx": "铃.pmx"
     },
     {
@@ -20,7 +20,7 @@
         "region": "Proxies",
         "rarity": 5,
         "directory": "zzz/chars/Wise/Wise",
-        "image": "ZZZ/Wise.png",
+        "image": "zzz/ZZZ/Wise.png",
         "pmx": "哲.pmx"
     },
     {
@@ -32,7 +32,7 @@
         "region": "Victoria Housekeeping",
         "rarity": 5,
         "directory": "zzz/chars/Rina",
-        "image": "ZZZ/Rina.png",
+        "image": "zzz/ZZZ/Rina.png",
         "pmx": "亚历山德丽娜.bpmx"
     },
     {
@@ -44,7 +44,7 @@
         "region": "Cunning Hares",
         "rarity": 4,
         "directory": "zzz/chars/Anby",
-        "image": "ZZZ/Anby.png",
+        "image": "zzz/ZZZ/Anby.png",
         "pmx": "安比.pmx"
     },
     {
@@ -56,7 +56,7 @@
         "region": "Belobog Heavy Industries",
         "rarity": 4,
         "directory": "zzz/chars/Anton",
-        "image": "ZZZ/Anton.png",
+        "image": "zzz/ZZZ/Anton.png",
         "pmx": "安东.pmx"
     },
     {
@@ -68,7 +68,7 @@
         "region": "Belobog Heavy Industries",
         "rarity": 4,
         "directory": "zzz/chars/Ben",
-        "image": "ZZZ/Ben.png",
+        "image": "zzz/ZZZ/Ben.png",
         "pmx": "本.bpmx"
     },
     {
@@ -80,7 +80,7 @@
         "region": "Cunning Hares",
         "rarity": 4,
         "directory": "zzz/chars/Billy",
-        "image": "ZZZ/Billy.png",
+        "image": "zzz/ZZZ/Billy.png",
         "pmx": "比利.pmx"
     },
     {
@@ -92,7 +92,7 @@
         "region": "Victoria Housekeeping",
         "rarity": 4,
         "directory": "zzz/chars/Corin",
-        "image": "ZZZ/Corin.png",
+        "image": "zzz/ZZZ/Corin.png",
         "pmx": "可琳.pmx"
     },
     {
@@ -104,7 +104,7 @@
         "region": "Belobog Heavy Industries",
         "rarity": 5,
         "directory": "zzz/chars/Grace",
-        "image": "ZZZ/Grace.png",
+        "image": "zzz/ZZZ/Grace.png",
         "pmx": "格莉丝.pmx"
     },
     {
@@ -116,7 +116,7 @@
         "region": "Belobog Heavy Industries",
         "rarity": 5,
         "directory": "zzz/chars/Koleda",
-        "image": "ZZZ/Koleda.png",
+        "image": "zzz/ZZZ/Koleda.png",
         "pmx": "珂雷妲.pmx"
     },
     {
@@ -128,7 +128,7 @@
         "region": "Sons of Calydon",
         "rarity": 4,
         "directory": "zzz/chars/Lucy",
-        "image": "ZZZ/Lucy.png",
+        "image": "zzz/ZZZ/Lucy.png",
         "pmx": "露西_帽.pmx"
     },
     {
@@ -140,7 +140,7 @@
         "region": "Cunning Hares",
         "rarity": 5,
         "directory": "zzz/chars/Nekomata",
-        "image": "ZZZ/Nekomata.png",
+        "image": "zzz/ZZZ/Nekomata.png",
         "pmx": "猫又.pmx"
     },
     {
@@ -152,7 +152,7 @@
         "region": "Cunning Hares",
         "rarity": 4,
         "directory": "zzz/chars/Nicole/Nicole",
-        "image": "ZZZ/Nicole.png",
+        "image": "zzz/ZZZ/Nicole.png",
         "pmx": "妮可.pmx"
     },
     {
@@ -164,7 +164,7 @@
         "region": "Sons of Calydon",
         "rarity": 4,
         "directory": "zzz/chars/Piper",
-        "image": "ZZZ/Piper.png",
+        "image": "zzz/ZZZ/Piper.png",
         "pmx": "派派.pmx"
     },
     {
@@ -176,7 +176,7 @@
         "region": "Obol Squad",
         "rarity": 5,
         "directory": "zzz/chars/Soldier 11",
-        "image": "ZZZ/Soldier 11.png",
+        "image": "zzz/ZZZ/Soldier 11.png",
         "pmx": "11号.pmx"
     },
     {
@@ -188,7 +188,7 @@
         "region": "Section 6",
         "rarity": 4,
         "directory": "zzz/chars/Soukaku",
-        "image": "ZZZ/Soukaku.png",
+        "image": "zzz/ZZZ/Soukaku.png",
         "pmx": "苍角.pmx"
     },
     {
@@ -200,7 +200,7 @@
         "region": "Proxies",
         "rarity": 5,
         "directory": "zzz/chars/Lycaon",
-        "image": "ZZZ/Lycaon.png",
+        "image": "zzz/ZZZ/Lycaon.png",
         "pmx": "莱卡恩.pmx"
     },
 	{
@@ -212,7 +212,7 @@
         "region": "Victoria Housekeeping",
         "rarity": 5,
         "directory": "zzz/chars/Ellen/Ellen",
-        "image": "ZZZ/Ellen.png",
+        "image": "zzz/ZZZ/Ellen.png",
         "pmx": "艾莲.pmx"
     },
     {
@@ -224,7 +224,7 @@
         "region": "Criminal Investigation Special Response Team",
         "rarity": 5,
         "directory": "zzz/chars/Zhu Yuan",
-        "image": "ZZZ/Zhu Yuan.png",
+        "image": "zzz/ZZZ/Zhu Yuan.png",
         "pmx": "朱鸢.pmx"
     },
     {
@@ -236,7 +236,7 @@
         "region": "Criminal Investigation Special Response Team",
         "rarity": 5,
         "directory": "zzz/chars/Qingyi",
-        "image": "ZZZ/Qingyi.png",
+        "image": "zzz/ZZZ/Qingyi.png",
         "pmx": "Qingyi.pmx"
     },
     {
@@ -248,7 +248,7 @@
         "region": "Faction Unknown",
         "rarity": 5,
         "directory": "zzz/chars/Jane Doe",
-        "image": "ZZZ/Jane Doe.png",
+        "image": "zzz/ZZZ/Jane Doe.png",
         "pmx": "简.pmx"
     },
     {
@@ -260,7 +260,7 @@
         "region": "Criminal Investigation Special Response Team",
         "rarity": 4,
         "directory": "zzz/chars/Seth Lowell",
-        "image": "ZZZ/Seth Lowell.png",
+        "image": "zzz/ZZZ/Seth Lowell.png",
         "pmx": "赛斯.pmx"
     },
 	{
@@ -272,7 +272,7 @@
         "region": "Sons of Calydon",
         "rarity": 5,
         "directory": "zzz/chars/Caesar King",
-        "image": "ZZZ/Caesar King.png",
+        "image": "zzz/ZZZ/Caesar King.png",
         "pmx": "凯撒.pmx"
     },
 	{
@@ -284,7 +284,7 @@
         "region": "Sons of Calydon",
         "rarity": 5,
         "directory": "zzz/chars/Burnice White",
-        "image": "ZZZ/Burnice White.png",
+        "image": "zzz/ZZZ/Burnice White.png",
         "pmx": "柏妮思.pmx"
     },
 	{
@@ -296,7 +296,7 @@
         "region": "Section 6",
         "rarity": 5,
         "directory": "zzz/chars/Tsukishiro Yanagi",
-        "image": "ZZZ/Tsukishiro Yanagi.png",
+        "image": "zzz/ZZZ/Tsukishiro Yanagi.png",
         "pmx": "柳.pmx"
     },
 	{
@@ -308,7 +308,7 @@
         "region": "Sons of Calydon",
         "rarity": 5,
         "directory": "zzz/chars/Lighter",
-        "image": "ZZZ/Lighter.png",
+        "image": "zzz/ZZZ/Lighter.png",
         "pmx": "莱特.pmx"
     },
 	{
@@ -320,7 +320,7 @@
         "region": "Section 6",
         "rarity": 5,
         "directory": "zzz/chars/Harumasa",
-        "image": "ZZZ/Harumasa.png",
+        "image": "zzz/ZZZ/Harumasa.png",
         "pmx": "Harumasa.pmx"
     },
     {
@@ -332,7 +332,7 @@
         "region": "Section 6",
         "rarity": 5,
         "directory": "zzz/chars/Hoshimi Miyabi",
-        "image": "ZZZ/Hoshimi Miyabi.png",
+        "image": "zzz/ZZZ/Hoshimi Miyabi.png",
         "pmx": "Hoshimi Miyabi.pmx"
     },
     {
@@ -344,7 +344,7 @@
         "region": "Stars of Lyra",
         "rarity": 5,
         "directory": "zzz/chars/Astra Yao/Astra Yao",
-        "image": "ZZZ/Astra Yao.png",
+        "image": "zzz/ZZZ/Astra Yao.png",
         "pmx": "耀嘉音.pmx"
     },
     {
@@ -356,7 +356,7 @@
         "region": "Stars of Lyra",
         "rarity": 5,
         "directory": "zzz/chars/Evelyn Chevalier",
-        "image": "ZZZ/Evelyn Chevalier.png",
+        "image": "zzz/ZZZ/Evelyn Chevalier.png",
         "pmx": "Evelyn.pmx"
     },
     {
@@ -368,7 +368,7 @@
         "region": "Sons of Calydon",
         "rarity": 4,
         "directory": "zzz/chars/Pulchra Fellini",
-        "image": "ZZZ/Pulchra.png",
+        "image": "zzz/ZZZ/Pulchra.png",
         "pmx": "波可娜.pmx"
     },
     {
@@ -380,7 +380,7 @@
         "region": "Defense Force - Silver Squad",
         "rarity": 5,
         "directory": "zzz/chars/Soldier 0 - Anby",
-        "image": "ZZZ/Soldier 0.png",
+        "image": "zzz/ZZZ/Soldier 0.png",
         "pmx": "安比.pmx"
     },
     {
@@ -392,7 +392,7 @@
         "region": "Obol Squad",
         "rarity": 5,
         "directory": "zzz/chars/Trigger",
-        "image": "ZZZ/Trigger.png",
+        "image": "zzz/ZZZ/Trigger.png",
         "pmx": "Trigger.pmx"
     },
     {
@@ -404,7 +404,7 @@
         "region": "Mockingbird",
         "rarity": 5,
         "directory": "zzz/chars/Vivian",
-        "image": "ZZZ/Vivian.png",
+        "image": "zzz/ZZZ/Vivian.png",
         "pmx": "薇薇安.pmx"
     },
 	{
@@ -416,7 +416,7 @@
         "region": "Mockingbird",
         "rarity": 5,
         "directory": "zzz/chars/Hugo",
-        "image": "ZZZ/Hugo.png",
+        "image": "zzz/ZZZ/Hugo.png",
         "pmx": "雨果.pmx"
     },
     {
@@ -428,7 +428,7 @@
         "region": "Yunkui Summit",
         "rarity": 4,
         "directory": "zzz/chars/Pan Yinhu",
-        "image": "ZZZ/Pan Yinhu.png",
+        "image": "zzz/ZZZ/Pan Yinhu.png",
         "pmx": "Pan Yinhu.pmx"
     },
     {
@@ -440,7 +440,7 @@
         "region": "Yunkui Summit",
         "rarity": 5,
         "directory": "zzz/chars/Yixuan/Yixuan",
-        "image": "ZZZ/Yixuan.png",
+        "image": "zzz/ZZZ/Yixuan.png",
         "pmx": "Yixuan.pmx"
     },
 	{
@@ -452,7 +452,7 @@
         "region": "Yunkui Summit",
         "rarity": 5,
         "directory": "zzz/chars/Ju Fufu",
-        "image": "ZZZ/Ju Fufu.png",
+        "image": "zzz/ZZZ/Ju Fufu.png",
         "pmx": "Ju Fufu.pmx"
     },
     {
@@ -464,7 +464,7 @@
         "region": "Spook Shack",
         "rarity": 5,
         "directory": "zzz/chars/Ukinami Yuzuha/Ukinami Yuzuha",
-        "image": "ZZZ/Ukinami Yuzuha.png",
+        "image": "zzz/ZZZ/Ukinami Yuzuha.png",
         "pmx": "Ukinami Yuzuha.pmx"
     },
     {
@@ -476,7 +476,7 @@
         "region": "Spook Shack",
         "rarity": 5,
         "directory": "zzz/chars/Alice Thymefield/Alice Thymefield",
-        "image": "ZZZ/Alice Thymefield.png",
+        "image": "zzz/ZZZ/Alice Thymefield.png",
         "pmx": "Alice Thymefield.pmx"
     },
 	{
@@ -488,7 +488,7 @@
         "region": "Obol Squad",
         "rarity": 5,
         "directory": "zzz/chars/Seed/Seed",
-        "image": "ZZZ/Seed.png",
+        "image": "zzz/ZZZ/Seed.png",
         "pmx": "Seed.pmx"
     },
     {
@@ -500,7 +500,7 @@
         "region": "Spook Shack",
         "rarity": 4,
         "directory": "zzz/chars/Komano Manato",
-        "image": "ZZZ/Komano Manato.png",
+        "image": "zzz/ZZZ/Komano Manato.png",
         "pmx": "Komano Manato.pmx"
     },
 	{
@@ -512,7 +512,7 @@
         "region": "Spook Shack",
         "rarity": 5,
         "directory": "zzz/chars/Lucia",
-        "image": "ZZZ/Lucia.png",
+        "image": "zzz/ZZZ/Lucia.png",
         "pmx": "Lucia.pmx"
     },
 	{
@@ -524,7 +524,7 @@
         "region": "Spook Shack",
         "rarity": 5,
         "directory": "zzz/chars/Yidhari",
-        "image": "ZZZ/Yidhari.png",
+        "image": "zzz/ZZZ/Yidhari.png",
         "pmx": "Yidhari.pmx"
     },
 	{
@@ -536,7 +536,7 @@
         "region": "Universal",
         "rarity": 6,
         "directory": "zzz/chars/Zhao",
-        "image": "ZZZ/Zhao.png",
+        "image": "zzz/ZZZ/Zhao.png",
         "pmx": "Zhao.pmx"
     },
 	{
@@ -548,7 +548,7 @@
         "region": "Universal",
         "rarity": 6,
         "directory": "zzz/chars/Chinatsu Remiel",
-        "image": "ZZZ/Chinatsu Remiel.png",
+        "image": "zzz/ZZZ/Chinatsu Remiel.png",
         "pmx": "Chinatsu Remiel.pmx"
     },
 	{
@@ -560,7 +560,7 @@
         "region": "Universal",
         "rarity": 6,
         "directory": "zzz/chars/Asha",
-        "image": "ZZZ/Asha.png",
+        "image": "zzz/ZZZ/Asha.png",
         "pmx": "Asha.pmx"
     },
 	{
@@ -572,7 +572,7 @@
         "region": "Universal",
         "rarity": 6,
         "directory": "zzz/chars/Orchidea",
-        "image": "ZZZ/Orchidea.png",
+        "image": "zzz/ZZZ/Orchidea.png",
         "pmx": "Orchidea.pmx"
     },
 	{
@@ -584,7 +584,7 @@
         "region": "Universal",
         "rarity": 6,
         "directory": "zzz/chars/Twiggy/Twiggy",
-        "image": "ZZZ/Twiggy.png",
+        "image": "zzz/ZZZ/Twiggy.png",
         "pmx": "Twiggy.pmx"
     },
     {
@@ -596,7 +596,7 @@
         "region": "Universal",
         "rarity": 6,
         "directory": "zzz/chars/Ye Shiyuan",
-        "image": "ZZZ/Ye Shiyuan.png",
+        "image": "zzz/ZZZ/Ye Shiyuan.png",
         "pmx": "Ye Shiyuan.pmx"
     },
     {
@@ -608,7 +608,7 @@
         "region": "Universal",
         "rarity": 6,
         "directory": "zzz/chars/Sweety",
-        "image": "ZZZ/Sweety.png",
+        "image": "zzz/ZZZ/Sweety.png",
         "pmx": "红豆.pmx"
     },
     {
@@ -620,7 +620,7 @@
         "region": "Universal",
         "rarity": 6,
         "directory": "zzz/chars/Sarah",
-        "image": "ZZZ/Sarah.png",
+        "image": "zzz/ZZZ/Sarah.png",
         "pmx": "Sarah.pmx"
     },
     {
@@ -632,7 +632,7 @@
         "region": "Universal",
         "rarity": 6,
         "directory": "zzz/chars/Isolde",
-        "image": "ZZZ/Isolde.png",
+        "image": "zzz/ZZZ/Isolde.png",
         "pmx": "Isolde.pmx"
     },
     {
@@ -644,7 +644,7 @@
         "region": "Universal",
         "rarity": 6,
         "directory": "zzz/chars/Carole Arna",
-        "image": "ZZZ/Carole Arna.png",
+        "image": "zzz/ZZZ/Carole Arna.png",
         "pmx": "Carole Arna.pmx"
     }
 ]
