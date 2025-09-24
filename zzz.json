@@ -491,6 +491,18 @@
         "image": "zzz/ZZZ/Seed.png",
         "pmx": "Seed.pmx"
     },
+	{
+        "id": 30000041,
+		"name": "Orphie and Magus",
+        "weaponType": "Attack",
+        "element": "Fire",
+        "gender": "Female",
+        "region": "Obol Squad",
+        "rarity": 5,
+        "directory": "zzz/chars/Orphie and Magus",
+        "image": "zzz/ZZZ/Orphie and Magus.png",
+        "pmx": "Orphie and Magus.pmx"
+    },
     {
         "id": 30000042,
 		"name": "Komano Manato",
