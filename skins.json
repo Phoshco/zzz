@@ -142,5 +142,17 @@
         "directory": "zzz/chars/Seed/Seed Sr",
         "image": "zzz/ZZZ/Seed.png",
         "pmx": "Seed.pmx"
+    },
+	{
+        "id": 30000033,
+		"name": "Vivian Banshee",
+        "weaponType": "Anomaly",
+        "element": "Ether",
+        "gender": "Female",
+        "region": "Mockingbird",
+        "rarity": 5,
+        "directory": "zzz/chars/Vivian/Vivan/Vivian_skin",
+        "image": "zzz/ZZZ/Vivian.png",
+        "pmx": "薇薇安.pmx"
     }
 ]
