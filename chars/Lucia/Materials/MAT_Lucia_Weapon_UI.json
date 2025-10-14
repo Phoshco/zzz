@@ -90,8 +90,8 @@
       "_MatCapTex": {
         "m_Texture": {
           "m_FileID": 4,
-          "m_PathID": -7678717654992888628,
-          "Name": "Eff_MatCap_008",
+          "m_PathID": 5791334174536911501,
+          "Name": "Eff_MatCap_095",
           "IsNull": false
         },
         "m_Scale": {
@@ -371,14 +371,14 @@
       "_MarkAsIgnisFatuusMask": 0.0,
       "_MaskTexFactor": 1.0,
       "_MatCap": 1.0,
-      "_MatCapAlphaBurst": 0.33,
+      "_MatCapAlphaBurst": 0.3,
       "_MatCapAlphaBurst2": 1.0,
       "_MatCapAlphaBurst3": 1.0,
       "_MatCapAlphaBurst4": 1.0,
       "_MatCapAlphaBurst5": 1.0,
       "_MatCapAlphaBurstFallback": 1.0,
       "_MatCapAlphaBurstFx": 1.0,
-      "_MatCapBlendMode": 1.0,
+      "_MatCapBlendMode": 2.0,
       "_MatCapBlendMode2": 0.0,
       "_MatCapBlendMode3": 0.0,
       "_MatCapBlendMode4": 0.0,
@@ -386,7 +386,7 @@
       "_MatCapBlendModeFallback": 0.0,
       "_MatCapBlendModeFx": 0.0,
       "_MatCapBumpScaleFx": 1.0,
-      "_MatCapColorBurst": 1.39,
+      "_MatCapColorBurst": 0.5,
       "_MatCapColorBurst2": 1.0,
       "_MatCapColorBurst3": 1.0,
       "_MatCapColorBurst4": 1.0,
@@ -808,8 +808,8 @@
       },
       "_MatCapColorTint": {
         "r": 1.0,
-        "g": 0.97543854,
-        "b": 0.8,
+        "g": 0.97647065,
+        "b": 0.90196085,
         "a": 1.0
       },
       "_MatCapColorTint2": {
@@ -847,6 +847,66 @@
         "g": 1.0,
         "b": 1.0,
         "a": 1.0
+      },
+      "_MatCapParams": {
+        "r": 0.5,
+        "g": 0.3,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "_MatCapParams2": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "_MatCapParams3": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "_MatCapParams4": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "_MatCapParams5": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "_MatCapReractParams": {
+        "r": 100.0,
+        "g": 0.0,
+        "b": 0.5,
+        "a": 2.0
+      },
+      "_MatCapReractParams2": {
+        "r": 100.0,
+        "g": 0.0,
+        "b": 0.5,
+        "a": 0.0
+      },
+      "_MatCapReractParams3": {
+        "r": 100.0,
+        "g": 0.0,
+        "b": 0.5,
+        "a": 0.0
+      },
+      "_MatCapReractParams4": {
+        "r": 100.0,
+        "g": 0.0,
+        "b": 0.5,
+        "a": 0.0
+      },
+      "_MatCapReractParams5": {
+        "r": 100.0,
+        "g": 0.0,
+        "b": 0.5,
+        "a": 0.0
       },
       "_MiddlePointPosition": {
         "r": 0.0,

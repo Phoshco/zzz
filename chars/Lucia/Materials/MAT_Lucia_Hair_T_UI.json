@@ -848,6 +848,66 @@
         "b": 1.0,
         "a": 1.0
       },
+      "_MatCapParams": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "_MatCapParams2": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "_MatCapParams3": {
+        "r": 1.0,
+        "g": 0.8,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "_MatCapParams4": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "_MatCapParams5": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "_MatCapReractParams": {
+        "r": 100.0,
+        "g": 0.0,
+        "b": 0.5,
+        "a": 0.0
+      },
+      "_MatCapReractParams2": {
+        "r": 100.0,
+        "g": 0.0,
+        "b": 0.5,
+        "a": 0.0
+      },
+      "_MatCapReractParams3": {
+        "r": 3.0,
+        "g": 0.0,
+        "b": 0.5,
+        "a": 1.0
+      },
+      "_MatCapReractParams4": {
+        "r": 100.0,
+        "g": 0.0,
+        "b": 0.5,
+        "a": 0.0
+      },
+      "_MatCapReractParams5": {
+        "r": 100.0,
+        "g": 0.0,
+        "b": 0.5,
+        "a": 0.0
+      },
       "_MiddlePointPosition": {
         "r": 0.0,
         "g": 0.0,

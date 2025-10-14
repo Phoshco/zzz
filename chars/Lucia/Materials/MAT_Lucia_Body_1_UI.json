@@ -122,8 +122,8 @@
       "_MatCapTex3": {
         "m_Texture": {
           "m_FileID": 5,
-          "m_PathID": -3766882959853808715,
-          "Name": "Eff_MatCap_018",
+          "m_PathID": 5075943231653877846,
+          "Name": "Eff_MatCap_021",
           "IsNull": false
         },
         "m_Scale": {
@@ -138,8 +138,8 @@
       "_MatCapTex4": {
         "m_Texture": {
           "m_FileID": 6,
-          "m_PathID": 4116637714984099291,
-          "Name": "Eff_Matcap_092",
+          "m_PathID": -1047774796858764165,
+          "Name": "Eff_MatCap_037",
           "IsNull": false
         },
         "m_Scale": {
@@ -348,7 +348,7 @@
       "_DitherAlpha": 1.0,
       "_DitherAlpha2": 1.0,
       "_DoubleSided": 1.0,
-      "_Emission": 1.0,
+      "_Emission": 0.0,
       "_FresnelFlashing": 4.0,
       "_FresnelMaskWidth": 5.0,
       "_FresnelWidth": 3.5,
@@ -372,24 +372,24 @@
       "_MaskTexFactor": 1.0,
       "_MatCap": 1.0,
       "_MatCapAlphaBurst": 0.5,
-      "_MatCapAlphaBurst2": 0.5,
-      "_MatCapAlphaBurst3": 0.5,
-      "_MatCapAlphaBurst4": 0.4,
+      "_MatCapAlphaBurst2": 0.2,
+      "_MatCapAlphaBurst3": 0.3,
+      "_MatCapAlphaBurst4": 0.2,
       "_MatCapAlphaBurst5": 1.0,
       "_MatCapAlphaBurstFallback": 1.0,
       "_MatCapAlphaBurstFx": 1.0,
       "_MatCapBlendMode": 1.0,
       "_MatCapBlendMode2": 1.0,
-      "_MatCapBlendMode3": 1.0,
-      "_MatCapBlendMode4": 0.0,
+      "_MatCapBlendMode3": 2.0,
+      "_MatCapBlendMode4": 1.0,
       "_MatCapBlendMode5": 1.0,
       "_MatCapBlendModeFallback": 0.0,
       "_MatCapBlendModeFx": 0.0,
       "_MatCapBumpScaleFx": 1.0,
       "_MatCapColorBurst": 0.7,
-      "_MatCapColorBurst2": 0.6,
-      "_MatCapColorBurst3": 0.7,
-      "_MatCapColorBurst4": 0.45,
+      "_MatCapColorBurst2": 0.4,
+      "_MatCapColorBurst3": 0.5,
+      "_MatCapColorBurst4": 0.3,
       "_MatCapColorBurst5": 0.6,
       "_MatCapColorBurstFallback": 1.0,
       "_MatCapColorBurstFx": 1.0,
@@ -536,7 +536,7 @@
       "_StretchDistance": 0.0,
       "_StretchPercentage": 0.0,
       "_SymmetryUV": 0.0,
-      "_TabSelection": 1.0,
+      "_TabSelection": 2.0,
       "_ToonSpecular": 0.01,
       "_ToonSpecular2": 0.01,
       "_ToonSpecular3": 0.01,
@@ -809,25 +809,25 @@
       "_MatCapColorTint": {
         "r": 1.0,
         "g": 0.7060631,
-        "b": 0.3254716,
+        "b": 0.32547167,
         "a": 1.0
       },
       "_MatCapColorTint2": {
-        "r": 0.39374396,
-        "g": 0.4291933,
-        "b": 0.624,
+        "r": 0.9339623,
+        "g": 0.79583746,
+        "b": 0.7533375,
         "a": 1.0
       },
       "_MatCapColorTint3": {
         "r": 1.0,
-        "g": 0.9299645,
-        "b": 0.6179245,
+        "g": 0.95030314,
+        "b": 0.7216981,
         "a": 1.0
       },
       "_MatCapColorTint4": {
-        "r": 1.0,
-        "g": 1.0,
-        "b": 1.0,
+        "r": 0.5,
+        "g": 0.5,
+        "b": 0.44178075,
         "a": 1.0
       },
       "_MatCapColorTint5": {
@@ -847,6 +847,66 @@
         "g": 1.0,
         "b": 1.0,
         "a": 1.0
+      },
+      "_MatCapParams": {
+        "r": 0.7,
+        "g": 0.5,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "_MatCapParams2": {
+        "r": 0.4,
+        "g": 0.2,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "_MatCapParams3": {
+        "r": 0.5,
+        "g": 0.3,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "_MatCapParams4": {
+        "r": 0.3,
+        "g": 0.2,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "_MatCapParams5": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "_MatCapReractParams": {
+        "r": 100.0,
+        "g": 0.0,
+        "b": 0.5,
+        "a": 1.0
+      },
+      "_MatCapReractParams2": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.5,
+        "a": 1.0
+      },
+      "_MatCapReractParams3": {
+        "r": 1.0,
+        "g": 0.0,
+        "b": 0.5,
+        "a": 2.0
+      },
+      "_MatCapReractParams4": {
+        "r": 2.0,
+        "g": 0.0,
+        "b": 0.5,
+        "a": 1.0
+      },
+      "_MatCapReractParams5": {
+        "r": 100.0,
+        "g": 0.0,
+        "b": 0.5,
+        "a": 0.0
       },
       "_MiddlePointPosition": {
         "r": 0.0,
@@ -1275,9 +1335,9 @@
         "a": 1.0
       },
       "_SpecularColor3": {
-        "r": 1.0,
-        "g": 1.0,
-        "b": 1.0,
+        "r": 0.9150943,
+        "g": 0.7971958,
+        "b": 0.56545925,
         "a": 1.0
       },
       "_SpecularColor4": {

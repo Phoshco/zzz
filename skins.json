@@ -154,5 +154,17 @@
         "directory": "zzz/chars/Vivian/Vivian_skin",
         "image": "zzz/ZZZ/Vivian.png",
         "pmx": "薇薇安.pmx"
+    },
+    {
+        "id": 30000042,
+		"name": "Komano Manato",
+        "weaponType": "Rupture",
+        "element": "Fire",
+        "gender": "Male",
+        "region": "Spook Shack",
+        "rarity": 4,
+        "directory": "zzz/chars/Komano Manato/Komano_alter",
+        "image": "zzz/ZZZ/Komano Manato.png",
+        "pmx": "Komano Manato.pmx"
     }
 ]

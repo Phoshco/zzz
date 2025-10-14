@@ -511,7 +511,7 @@
         "gender": "Male",
         "region": "Spook Shack",
         "rarity": 4,
-        "directory": "zzz/chars/Komano Manato",
+        "directory": "zzz/chars/Komano Manato/Komano Manato",
         "image": "zzz/ZZZ/Komano Manato.png",
         "pmx": "Komano Manato.pmx"
     },
@@ -541,6 +541,42 @@
     },
 	{
         "id": 30000045,
+		"name": "Banyue",
+        "weaponType": "Rupture",
+        "element": "Fire",
+        "gender": "Male",
+        "region": "Krampus Compliance Authority",
+        "rarity": 5,
+        "directory": "zzz/chars/Banyue",
+        "image": "zzz/ZZZ/Banyue.png",
+        "pmx": "Banyue.pmx"
+    },
+	{
+        "id": 30000046,
+		"name": "Dialyn",
+        "weaponType": "Stun",
+        "element": "Physical",
+        "gender": "Female",
+        "region": "Krampus Compliance Authority",
+        "rarity": 5,
+        "directory": "zzz/chars/Dialyn",
+        "image": "zzz/ZZZ/Dialyn.png",
+        "pmx": "Dialyn.pmx"
+    },
+	{
+        "id": 30000047,
+		"name": "Ye Shunguang",
+        "weaponType": "Universal",
+        "element": "Universal",
+        "gender": "Female",
+        "region": "Yunkui Summit",
+        "rarity": 6,
+        "directory": "zzz/chars/Ye Shunguang",
+        "image": "zzz/ZZZ/Ye Shunguang.png",
+        "pmx": "Ye Shunguang.pmx"
+    },
+	{
+        "id": 30000048,
 		"name": "Zhao",
         "weaponType": "Universal",
         "element": "Universal",
@@ -552,7 +588,7 @@
         "pmx": "Zhao.pmx"
     },
 	{
-        "id": 30000046,
+        "id": 30000049,
 		"name": "Chinatsu Remiel",
         "weaponType": "Universal",
         "element": "Universal",
