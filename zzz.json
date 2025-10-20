@@ -33,7 +33,7 @@
         "rarity": 5,
         "directory": "zzz/chars/Rina",
         "image": "zzz/ZZZ/Rina.png",
-        "pmx": "亚历山德丽娜.bpmx"
+        "pmx": "亚历山德丽娜.pmx"
     },
     {
         "id": 30000003,
@@ -69,7 +69,7 @@
         "rarity": 4,
         "directory": "zzz/chars/Ben",
         "image": "zzz/ZZZ/Ben.png",
-        "pmx": "本.bpmx"
+        "pmx": "本.pmx"
     },
     {
         "id": 30000006,
