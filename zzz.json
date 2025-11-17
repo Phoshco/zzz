@@ -565,6 +565,18 @@
     },
 	{
         "id": 30000047,
+		"name": "Zhao",
+        "weaponType": "Defense",
+        "element": "Ice",
+        "gender": "Female",
+        "region": "Krampus Compliance Authority",
+        "rarity": 5,
+        "directory": "zzz/chars/Zhao",
+        "image": "zzz/ZZZ/Zhao.png",
+        "pmx": "Zhao.pmx"
+    },
+	{
+        "id": 30000048,
 		"name": "Ye Shunguang",
         "weaponType": "Universal",
         "element": "Universal",
@@ -574,18 +586,6 @@
         "directory": "zzz/chars/Ye Shunguang",
         "image": "zzz/ZZZ/Ye Shunguang.png",
         "pmx": "Ye Shunguang.pmx"
-    },
-	{
-        "id": 30000048,
-		"name": "Zhao",
-        "weaponType": "Universal",
-        "element": "Universal",
-        "gender": "Female",
-        "region": "Universal",
-        "rarity": 6,
-        "directory": "zzz/chars/Zhao",
-        "image": "zzz/ZZZ/Zhao.png",
-        "pmx": "Zhao.pmx"
     },
 	{
         "id": 30000049,
