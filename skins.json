@@ -166,5 +166,17 @@
         "directory": "zzz/chars/Komano Manato/Komano_alter",
         "image": "zzz/ZZZ/Komano Manato.png",
         "pmx": "Komano Manato.pmx"
+    ,
+	{
+        "id": 30000048,
+		"name": "Ye Shunguang",
+        "weaponType": "Attack",
+        "element": "Physical",
+        "gender": "Female",
+        "region": "Yunkui Summit",
+        "rarity": 5,
+        "directory": "zzz/chars/Ye Shunguang/Ye Shunguang_alter",
+        "image": "zzz/ZZZ/Ye Shunguang.png",
+        "pmx": "Ye Shunguang.pmx"
     }
 ]

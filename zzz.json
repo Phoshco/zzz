@@ -578,12 +578,12 @@
 	{
         "id": 30000048,
 		"name": "Ye Shunguang",
-        "weaponType": "Universal",
-        "element": "Universal",
+        "weaponType": "Attack",
+        "element": "Physical",
         "gender": "Female",
         "region": "Yunkui Summit",
-        "rarity": 6,
-        "directory": "zzz/chars/Ye Shunguang",
+        "rarity": 5,
+        "directory": "zzz/chars/Ye Shunguang/Ye Shunguang",
         "image": "zzz/ZZZ/Ye Shunguang.png",
         "pmx": "Ye Shunguang.pmx"
     },
