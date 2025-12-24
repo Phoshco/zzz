@@ -190,5 +190,17 @@
         "directory": "zzz/chars/Ye Shunguang/Ye Shunguang_alter",
         "image": "zzz/ZZZ/Ye Shunguang.png",
         "pmx": "Ye Shunguang.pmx"
+    },
+	{
+        "id": 30000020,
+        "name": "Jane Doe",
+        "weaponType": "Anomaly",
+        "element": "Physical",
+        "gender": "Female",
+        "region": "Criminal Investigation Special Response Team",
+        "rarity": 5,
+        "directory": "zzz/chars/Jane Doe/Jane Doe Nocturne",
+        "image": "zzz/ZZZ/Jane Doe.png",
+        "pmx": "Jane Doe.pmx"
     }
 ]

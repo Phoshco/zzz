@@ -245,9 +245,9 @@
         "weaponType": "Anomaly",
         "element": "Physical",
         "gender": "Female",
-        "region": "Faction Unknown",
+        "region": "Criminal Investigation Special Response Team",
         "rarity": 5,
-        "directory": "zzz/chars/Jane Doe",
+        "directory": "zzz/chars/Jane Doe/Jane Doe",
         "image": "zzz/ZZZ/Jane Doe.png",
         "pmx": "简.pmx"
     },
@@ -541,18 +541,6 @@
     },
 	{
         "id": 30000045,
-		"name": "Banyue",
-        "weaponType": "Rupture",
-        "element": "Fire",
-        "gender": "Male",
-        "region": "Krampus Compliance Authority",
-        "rarity": 5,
-        "directory": "zzz/chars/Banyue",
-        "image": "zzz/ZZZ/Banyue.png",
-        "pmx": "Banyue.pmx"
-    },
-	{
-        "id": 30000046,
 		"name": "Dialyn",
         "weaponType": "Stun",
         "element": "Physical",
@@ -562,6 +550,18 @@
         "directory": "zzz/chars/Dialyn",
         "image": "zzz/ZZZ/Dialyn.png",
         "pmx": "Dialyn.pmx"
+    },
+	{
+        "id": 30000046,
+		"name": "Banyue",
+        "weaponType": "Rupture",
+        "element": "Fire",
+        "gender": "Male",
+        "region": "Krampus Compliance Authority",
+        "rarity": 5,
+        "directory": "zzz/chars/Banyue",
+        "image": "zzz/ZZZ/Banyue.png",
+        "pmx": "Banyue.pmx"
     },
 	{
         "id": 30000047,
