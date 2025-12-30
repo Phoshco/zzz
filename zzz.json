@@ -589,15 +589,39 @@
     },
 	{
         "id": 30000049,
-		"name": "Chinatsu Remiel",
+		"name": "Sunna",
         "weaponType": "Universal",
         "element": "Universal",
         "gender": "Female",
         "region": "Universal",
         "rarity": 6,
-        "directory": "zzz/chars/Chinatsu Remiel",
-        "image": "zzz/ZZZ/Chinatsu Remiel.png",
+        "directory": "zzz/chars/Sunna",
+        "image": "zzz/ZZZ/Sunna.png",
         "pmx": "Chinatsu Remiel.pmx"
+    },
+	{
+        "id": 30000050,
+		"name": "Nangong Yu",
+        "weaponType": "Universal",
+        "element": "Universal",
+        "gender": "Female",
+        "region": "Universal",
+        "rarity": 6,
+        "directory": "zzz/chars/Nangong Yu",
+        "image": "zzz/ZZZ/Nangong Yu.png",
+        "pmx": "Nangong Yu.pmx"
+    },
+	{
+        "id": 30000051,
+		"name": "Aria",
+        "weaponType": "Universal",
+        "element": "Universal",
+        "gender": "Female",
+        "region": "Universal",
+        "rarity": 6,
+        "directory": "zzz/chars/Aria",
+        "image": "zzz/ZZZ/Aria.png",
+        "pmx": "Aria.pmx"
     },
 	{
         "id": 3000000,
