@@ -168,7 +168,7 @@
         "pmx": "Komano Manato.pmx"
 	},
 	{
-        "id": 30000848,
+        "id": 30000048,
 		"name": "Ye Shunguang",
         "weaponType": "Attack",
         "element": "Physical",
@@ -180,7 +180,7 @@
         "pmx": "Ye Shunguang_alter.pmx"
     },
 	{
-        "id": 30000948,
+        "id": 30000848,
 		"name": "Ye Shunguang",
         "weaponType": "Attack",
         "element": "Physical",
@@ -192,7 +192,7 @@
         "pmx": "Ye Shunguang.pmx"
     },
 	{
-        "id": 30000048,
+        "id": 30000948,
 		"name": "Ye Shunguang",
         "weaponType": "Attack",
         "element": "Physical",
