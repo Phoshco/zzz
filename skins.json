@@ -70,6 +70,7 @@
         "directory": "zzz/chars/Wise/Wise_child",
         "image": "zzz/ZZZ/Wise.png",
         "pmx": "Wise.pmx"
+	},
 	{
         "id": 30000900,
         "name": "Belle",
