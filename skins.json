@@ -48,6 +48,29 @@
         "pmx": "Girl A.pmx"
     },
 	{
+        "id": 30000800,
+        "name": "Belle",
+        "weaponType": "Universal",
+        "element": "Universal",
+        "gender": "Female",
+        "region": "Proxies",
+        "rarity": 5,
+        "directory": "zzz/chars/Belle/Belle_child",
+        "image": "zzz/ZZZ/Belle.png",
+        "pmx": "Belle.pmx"
+    },
+    {
+        "id": 30000801,
+        "name": "Wise",
+        "weaponType": "Universal",
+        "element": "Universal",
+        "gender": "Male",
+        "region": "Proxies",
+        "rarity": 5,
+        "directory": "zzz/chars/Wise/Wise_child",
+        "image": "zzz/ZZZ/Wise.png",
+        "pmx": "Wise.pmx"
+	{
         "id": 30000900,
         "name": "Belle",
         "weaponType": "Universal",
@@ -214,5 +237,17 @@
         "directory": "zzz/chars/Jane Doe/Jane Doe Nocturne",
         "image": "zzz/ZZZ/Jane Doe.png",
         "pmx": "Jane Doe.pmx"
+    },
+	{
+        "id": 30000051,
+		"name": "Aria",
+        "weaponType": "Universal",
+        "element": "Universal",
+        "gender": "Female",
+        "region": "Universal",
+        "rarity": 6,
+        "directory": "zzz/chars/Aria/Aria_robot",
+        "image": "zzz/ZZZ/Aria.png",
+        "pmx": "Aria.pmx"
     }
 ]
