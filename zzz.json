@@ -624,6 +624,42 @@
         "pmx": "Nangong Yu.pmx"
     },
 	{
+        "id": 30000052,
+		"name": "Cissia",
+        "weaponType": "Universal",
+        "element": "Universal",
+        "gender": "Female",
+        "region": "Universal",
+        "rarity": 6,
+        "directory": "zzz/chars/Cissia",
+        "image": "zzz/ZZZ/Cissia.png",
+        "pmx": "Cissia.pmx"
+    },
+	{
+        "id": 30000053,
+		"name": "Promeia",
+        "weaponType": "Universal",
+        "element": "Universal",
+        "gender": "Female",
+        "region": "Universal",
+        "rarity": 6,
+        "directory": "zzz/chars/Promeia",
+        "image": "zzz/ZZZ/Promeia.png",
+        "pmx": "Promeia.pmx"
+    },
+	{
+        "id": 30000054,
+		"name": "Severian Lowell",
+        "weaponType": "Universal",
+        "element": "Universal",
+        "gender": "Male",
+        "region": "Universal",
+        "rarity": 6,
+        "directory": "zzz/chars/Severian Lowell",
+        "image": "zzz/ZZZ/Severian Lowell.png",
+        "pmx": "Severian Lowell.pmx"
+    },
+	{
         "id": 3000000,
 		"name": "Asha",
         "weaponType": "Universal",
