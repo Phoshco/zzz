@@ -754,5 +754,17 @@
         "directory": "zzz/chars/Carole Arna",
         "image": "zzz/ZZZ/Carole Arna.png",
         "pmx": "Carole Arna.pmx"
+    },
+    {
+        "id": 3000008,
+		"name": "Cecilia",
+        "weaponType": "Universal",
+        "element": "Universal",
+        "gender": "Female",
+        "region": "Universal",
+        "rarity": 6,
+        "directory": "zzz/chars/Cecilia",
+        "image": "zzz/ZZZ/Cecilia.png",
+        "pmx": "Cecilia.pmx"
     }
 ]
