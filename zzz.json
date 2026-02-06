@@ -595,9 +595,9 @@
         "gender": "Female",
         "region": "Angels of Delusion",
         "rarity": 5,
-        "directory": "zzz/chars/Sunna",
+        "directory": "zzz/chars/Sunna/Sunna",
         "image": "zzz/ZZZ/Sunna.png",
-        "pmx": "Chinatsu Remiel.pmx"
+        "pmx": "Sunna.pmx"
     },
 	{
         "id": 30000050,

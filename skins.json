@@ -250,5 +250,17 @@
         "directory": "zzz/chars/Aria/Aria_robot",
         "image": "zzz/ZZZ/Aria.png",
         "pmx": "Aria.pmx"
+    },
+	{
+        "id": 30000049,
+		"name": "Sunna",
+        "weaponType": "Support",
+        "element": "Physical",
+        "gender": "Female",
+        "region": "Angels of Delusion",
+        "rarity": 5,
+        "directory": "zzz/chars/Sunna/Sunna_skin",
+        "image": "zzz/ZZZ/Sunna.png",
+        "pmx": "Sunna.pmx"
     }
 ]
