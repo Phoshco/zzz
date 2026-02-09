@@ -286,5 +286,17 @@
         "directory": "zzz/chars/Sunna/Sunna_skin",
         "image": "zzz/ZZZ/Sunna.png",
         "pmx": "Sunna.pmx"
+    },
+	{
+        "id": 3000004,
+		"name": "Sweety",
+        "weaponType": "Universal",
+        "element": "Universal",
+        "gender": "Female",
+        "region": "Universal",
+        "rarity": 6,
+        "directory": "zzz/chars/Sweety/Sweety_alter",
+        "image": "zzz/ZZZ/Sweety.png",
+        "pmx": "红豆.pmx"
     }
 ]
