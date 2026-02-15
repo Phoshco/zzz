@@ -614,11 +614,11 @@
 	{
         "id": 30000051,
 		"name": "Nangong Yu",
-        "weaponType": "Universal",
-        "element": "Universal",
+        "weaponType": "Stun",
+        "element": "Ether",
         "gender": "Female",
-        "region": "Universal",
-        "rarity": 6,
+        "region": "Angels of Delusion",
+        "rarity": 5,
         "directory": "zzz/chars/Nangong Yu",
         "image": "zzz/ZZZ/Nangong Yu.png",
         "pmx": "Nangong Yu.pmx"
@@ -626,11 +626,11 @@
 	{
         "id": 30000052,
 		"name": "Cissia",
-        "weaponType": "Universal",
-        "element": "Universal",
+        "weaponType": "Attack",
+        "element": "Electric",
         "gender": "Female",
-        "region": "Universal",
-        "rarity": 6,
+        "region": "Metropolitan Order Division",
+        "rarity": 5,
         "directory": "zzz/chars/Cissia",
         "image": "zzz/ZZZ/Cissia.png",
         "pmx": "Cissia.pmx"
