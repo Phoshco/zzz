@@ -1,0 +1,15 @@
+[Info]
+Version = 3
+
+[Effect]
+Obj = none
+Obj[5] = GIFMME\eye_GIF.fx
+Obj[12] = GIFMME\Angry_GIF.fx
+Obj[13] = GIFMME\Angry2_GIF.fx
+Obj[14] = GIFMME\Happy_GIF.fx
+Obj[15] = GIFMME\Happy2_GIF.fx
+Obj[16] = GIFMME\Sad_GIF.fx
+Obj[17] = GIFMME\Shy_GIF.fx
+Obj[18] = GIFMME\Surprise_GIF.fx
+Obj[19] = GIFMME\Think_GIF.fx
+
