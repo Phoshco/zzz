@@ -288,6 +288,18 @@
         "pmx": "Sunna.pmx"
     },
 	{
+        "id": 30000051,
+		"name": "Nangong Yu",
+        "weaponType": "Stun",
+        "element": "Ether",
+        "gender": "Female",
+        "region": "Angels of Delusion",
+        "rarity": 5,
+        "directory": "zzz/chars/Nangong Yu/Nangong Yu skin",
+        "image": "zzz/ZZZ/Nangong Yu.png",
+        "pmx": "Nangong Yu.pmx"
+    },
+	{
         "id": 30000053,
 		"name": "Promeia",
         "weaponType": "Universal",
