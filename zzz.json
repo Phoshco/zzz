@@ -649,6 +649,42 @@
     },
 	{
         "id": 30000054,
+		"name": "Norma",
+        "weaponType": "Universal",
+        "element": "Universal",
+        "gender": "Female",
+        "region": "Universal",
+        "rarity": 6,
+        "directory": "zzz/chars/Norma",
+        "image": "zzz/ZZZ/Norma.png",
+        "pmx": "Norma.pmx"
+    },
+	{
+        "id": 30000055,
+		"name": "Velina",
+        "weaponType": "Universal",
+        "element": "Universal",
+        "gender": "Female",
+        "region": "Universal",
+        "rarity": 6,
+        "directory": "zzz/chars/Velina",
+        "image": "zzz/ZZZ/Velina.png",
+        "pmx": "Velina.pmx"
+    },
+	{
+        "id": 30000056,
+		"name": "Remielle",
+        "weaponType": "Universal",
+        "element": "Universal",
+        "gender": "Female",
+        "region": "Universal",
+        "rarity": 6,
+        "directory": "zzz/chars/Remielle",
+        "image": "zzz/ZZZ/Remielle.png",
+        "pmx": "Remielle.pmx"
+    },
+	{
+        "id": 30000057,
 		"name": "Severian Lowell",
         "weaponType": "Universal",
         "element": "Universal",
