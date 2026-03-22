@@ -288,6 +288,18 @@
         "pmx": "Sunna.pmx"
     },
 	{
+        "id": 30000053,
+		"name": "Promeia",
+        "weaponType": "Universal",
+        "element": "Universal",
+        "gender": "Female",
+        "region": "Universal",
+        "rarity": 6,
+        "directory": "zzz/chars/Promeia",
+        "image": "zzz/ZZZ/Promeia.png",
+        "pmx": "Promeia_nojacket.pmx"
+    },
+	{
         "id": 3000004,
 		"name": "Sweety",
         "weaponType": "Universal",

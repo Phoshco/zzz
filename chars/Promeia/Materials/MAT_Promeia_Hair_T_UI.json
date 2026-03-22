@@ -1,28 +1,12 @@
 {
   "m_Shader": {
-    "m_FileID": 1,
-    "m_PathID": 3888839570379262989,
+    "m_FileID": 3,
+    "m_PathID": -1264760374214708068,
     "Name": "",
     "IsNull": false
   },
   "m_SavedProperties": {
     "m_TexEnvs": {
-      "_BlockMaskTex": {
-        "m_Texture": {
-          "m_FileID": 0,
-          "m_PathID": 0,
-          "Name": "",
-          "IsNull": true
-        },
-        "m_Scale": {
-          "X": 1.0,
-          "Y": 1.0
-        },
-        "m_Offset": {
-          "X": 0.0,
-          "Y": 0.0
-        }
-      },
       "_ChannelMixTex": {
         "m_Texture": {
           "m_FileID": 0,
@@ -57,9 +41,9 @@
       },
       "_LightTex": {
         "m_Texture": {
-          "m_FileID": 2,
-          "m_PathID": 5955326573574601523,
-          "Name": "Promeia_Body_Map2_N",
+          "m_FileID": 6,
+          "m_PathID": -3599804917413503986,
+          "Name": "Promeia_Hair_N",
           "IsNull": false
         },
         "m_Scale": {
@@ -73,9 +57,9 @@
       },
       "_MainTex": {
         "m_Texture": {
-          "m_FileID": 3,
-          "m_PathID": 7472100588982381565,
-          "Name": "Promeia_Body_Map2_D",
+          "m_FileID": 2,
+          "m_PathID": 5733501221585639092,
+          "Name": "Promeia_Hair_D",
           "IsNull": false
         },
         "m_Scale": {
@@ -103,28 +87,12 @@
           "Y": 0.0
         }
       },
-      "_MatCapBumpMapFx": {
-        "m_Texture": {
-          "m_FileID": 0,
-          "m_PathID": 0,
-          "Name": "",
-          "IsNull": true
-        },
-        "m_Scale": {
-          "X": 1.0,
-          "Y": 1.0
-        },
-        "m_Offset": {
-          "X": 0.0,
-          "Y": 0.0
-        }
-      },
       "_MatCapTex": {
         "m_Texture": {
-          "m_FileID": 0,
-          "m_PathID": 0,
+          "m_FileID": 5,
+          "m_PathID": -807226201400800218,
           "Name": "",
-          "IsNull": true
+          "IsNull": false
         },
         "m_Scale": {
           "X": 1.0,
@@ -137,10 +105,10 @@
       },
       "_MatCapTex2": {
         "m_Texture": {
-          "m_FileID": 4,
-          "m_PathID": -7846648603291362723,
-          "Name": "Eff_Matcap_115",
-          "IsNull": false
+          "m_FileID": 0,
+          "m_PathID": 0,
+          "Name": "",
+          "IsNull": true
         },
         "m_Scale": {
           "X": 1.0,
@@ -185,10 +153,10 @@
       },
       "_MatCapTex5": {
         "m_Texture": {
-          "m_FileID": 5,
-          "m_PathID": -807226201400800218,
+          "m_FileID": 0,
+          "m_PathID": 0,
           "Name": "",
-          "IsNull": false
+          "IsNull": true
         },
         "m_Scale": {
           "X": 1.0,
@@ -215,27 +183,11 @@
           "Y": 0.0
         }
       },
-      "_MatCapTexFx": {
-        "m_Texture": {
-          "m_FileID": 0,
-          "m_PathID": 0,
-          "Name": "",
-          "IsNull": true
-        },
-        "m_Scale": {
-          "X": 1.0,
-          "Y": 1.0
-        },
-        "m_Offset": {
-          "X": 0.0,
-          "Y": 0.0
-        }
-      },
       "_OtherDataTex": {
         "m_Texture": {
-          "m_FileID": 6,
-          "m_PathID": -893893914093720187,
-          "Name": "Promeia_Body_Map2_M",
+          "m_FileID": 1,
+          "m_PathID": -1324016684455821251,
+          "Name": "Promeia_Hair_M",
           "IsNull": false
         },
         "m_Scale": {
@@ -249,26 +201,10 @@
       },
       "_OtherDataTex2": {
         "m_Texture": {
-          "m_FileID": 7,
-          "m_PathID": -6057658142519540367,
-          "Name": "Promeia_Body_Map2_A",
+          "m_FileID": 4,
+          "m_PathID": -7991031566169739577,
+          "Name": "Promeia_Hair_A",
           "IsNull": false
-        },
-        "m_Scale": {
-          "X": 1.0,
-          "Y": 1.0
-        },
-        "m_Offset": {
-          "X": 0.0,
-          "Y": 0.0
-        }
-      },
-      "_OverrideOutlineTex": {
-        "m_Texture": {
-          "m_FileID": 0,
-          "m_PathID": 0,
-          "Name": "",
-          "IsNull": true
         },
         "m_Scale": {
           "X": 1.0,
@@ -343,22 +279,6 @@
           "Y": 0.0
         }
       },
-      "_SecondaryEmissionMaskTexForCGLighting": {
-        "m_Texture": {
-          "m_FileID": 0,
-          "m_PathID": 0,
-          "Name": "",
-          "IsNull": true
-        },
-        "m_Scale": {
-          "X": 1.0,
-          "Y": 1.0
-        },
-        "m_Offset": {
-          "X": 0.0,
-          "Y": 0.0
-        }
-      },
       "_SecondaryEmissionTex": {
         "m_Texture": {
           "m_FileID": 0,
@@ -375,87 +295,7 @@
           "Y": 0.0
         }
       },
-      "_SecondaryEmissionTexForCGLighting": {
-        "m_Texture": {
-          "m_FileID": 0,
-          "m_PathID": 0,
-          "Name": "",
-          "IsNull": true
-        },
-        "m_Scale": {
-          "X": 1.0,
-          "Y": 1.0
-        },
-        "m_Offset": {
-          "X": 0.0,
-          "Y": 0.0
-        }
-      },
-      "_SpecialWeaponEmissionMaskTex": {
-        "m_Texture": {
-          "m_FileID": 0,
-          "m_PathID": 0,
-          "Name": "",
-          "IsNull": true
-        },
-        "m_Scale": {
-          "X": 1.0,
-          "Y": 1.0
-        },
-        "m_Offset": {
-          "X": 0.0,
-          "Y": 0.0
-        }
-      },
-      "_SpecialWeaponEmissionTex": {
-        "m_Texture": {
-          "m_FileID": 0,
-          "m_PathID": 0,
-          "Name": "",
-          "IsNull": true
-        },
-        "m_Scale": {
-          "X": 1.0,
-          "Y": 1.0
-        },
-        "m_Offset": {
-          "X": 0.0,
-          "Y": 0.0
-        }
-      },
-      "_StretchMask": {
-        "m_Texture": {
-          "m_FileID": 0,
-          "m_PathID": 0,
-          "Name": "",
-          "IsNull": true
-        },
-        "m_Scale": {
-          "X": 1.0,
-          "Y": 1.0
-        },
-        "m_Offset": {
-          "X": 0.0,
-          "Y": 0.0
-        }
-      },
       "_ThreadMap": {
-        "m_Texture": {
-          "m_FileID": 0,
-          "m_PathID": 0,
-          "Name": "",
-          "IsNull": true
-        },
-        "m_Scale": {
-          "X": 1.0,
-          "Y": 1.0
-        },
-        "m_Offset": {
-          "X": 0.0,
-          "Y": 0.0
-        }
-      },
-      "_TransitionTex": {
         "m_Texture": {
           "m_FileID": 0,
           "m_PathID": 0,
@@ -496,11 +336,13 @@
       "_BrightMultiplier5": 1.0,
       "_BumpScale": 1.0,
       "_CameraToLightRadian": 0.0,
+      "_CastUIShadow": 1.0,
       "_CenterMinAlpha": 0.0,
       "_ChannelMixerUsingUV4": 0.0,
       "_CharacterSimplify": 0.0,
       "_ClipPlane": 0.0,
       "_ClipPlaneXZ": 0.0,
+      "_ColorCorrectionIntensity": 1.0,
       "_Cull": 2.0,
       "_Cutoff": 0.5,
       "_DarkAOScale": 0.5,
@@ -509,7 +351,7 @@
       "_DitherAlpha2": 1.0,
       "_DoubleSided": 0.0,
       "_DstBlend": 0.0,
-      "_Emission": 1.0,
+      "_Emission": 0.0,
       "_FresnelFlashing": 4.0,
       "_FresnelMaskWidth": 5.0,
       "_FresnelWidth": 3.5,
@@ -520,7 +362,7 @@
       "_HardLight": 0.0,
       "_HardLightWidth": 0.1,
       "_HighlightShape": 0.0,
-      "_HighlightShape2": 0.0,
+      "_HighlightShape2": 1.0,
       "_HighlightShape3": 0.0,
       "_HighlightShape4": 0.0,
       "_HighlightShape5": 0.0,
@@ -535,26 +377,26 @@
       "_MarkAsVfxMask": 0.0,
       "_MaskTexFactor": 1.0,
       "_MatCap": 1.0,
-      "_MatCapAlphaBurst": 1.0,
+      "_MatCapAlphaBurst": 0.2,
       "_MatCapAlphaBurst2": 1.0,
       "_MatCapAlphaBurst3": 1.0,
       "_MatCapAlphaBurst4": 1.0,
-      "_MatCapAlphaBurst5": 0.2,
+      "_MatCapAlphaBurst5": 1.0,
       "_MatCapAlphaBurstFallback": 1.0,
       "_MatCapAlphaBurstFx": 1.0,
-      "_MatCapBlendMode": 0.0,
-      "_MatCapBlendMode2": 1.0,
+      "_MatCapBlendMode": 1.0,
+      "_MatCapBlendMode2": 0.0,
       "_MatCapBlendMode3": 0.0,
       "_MatCapBlendMode4": 0.0,
-      "_MatCapBlendMode5": 1.0,
+      "_MatCapBlendMode5": 0.0,
       "_MatCapBlendModeFallback": 0.0,
       "_MatCapBlendModeFx": 0.0,
       "_MatCapBumpScaleFx": 1.0,
-      "_MatCapColorBurst": 1.0,
-      "_MatCapColorBurst2": 0.49,
+      "_MatCapColorBurst": 3.0,
+      "_MatCapColorBurst2": 1.0,
       "_MatCapColorBurst3": 1.0,
       "_MatCapColorBurst4": 1.0,
-      "_MatCapColorBurst5": 3.0,
+      "_MatCapColorBurst5": 1.0,
       "_MatCapColorBurstFallback": 1.0,
       "_MatCapColorBurstFx": 1.0,
       "_MatCapFX": 0.0,
@@ -585,11 +427,11 @@
       "_MatCapVSpeed5": 0.0,
       "_MatCapVSpeedFallback": 0.0,
       "_MatCapVSpeedFx": 0.0,
-      "_MaterialNum": 4.0,
+      "_MaterialNum": 1.0,
       "_MaxOutlineZOffset": 0.01,
       "_Metallic": 1.0,
       "_Mode": 0.0,
-      "_ModelSize": 1.5,
+      "_ModelSize": 1.0,
       "_ModelSize2": 1.0,
       "_ModelSize3": 1.0,
       "_ModelSize4": 1.0,
@@ -603,6 +445,7 @@
       "_OutlineFX": 0.0,
       "_OutlineWidth": 1.0,
       "_OutlineWidthFX": 1.0,
+      "_OutlineWidthUIAdjustment": 1.0,
       "_OverlayTexScale": 1000.0,
       "_Override": 0.0,
       "_Override2Tone": 0.0,
@@ -611,6 +454,7 @@
       "_Override2ToneForCGLighting": 0.0,
       "_Override2ToneMultiplyAlbedo": 0.0,
       "_Override2ToneMultiplyAlbedoForCGLighting": 0.0,
+      "_OverrideMainLight": 0.0,
       "_OverrideMainLightParam": 0.0,
       "_OverrideMainLightParam2": 0.0,
       "_OverrideMainLightParam3": 0.0,
@@ -651,7 +495,7 @@
       "_RefractDepth4": 0.5,
       "_RefractDepth5": 0.5,
       "_RefractDepthFallback": 0.5,
-      "_RenderType": 0.0,
+      "_RenderType": 2.0,
       "_ReversePlaneXZ": 0.0,
       "_RimGlow": 1.0,
       "_ScreenImage": 0.0,
@@ -681,7 +525,7 @@
       "_ShapeSoftness5": 0.1,
       "_ShiftAngle": 120.0,
       "_ShiftAngleForCGLighting": 120.0,
-      "_SkinMatId": 0.0,
+      "_SkinMatId": 2.0,
       "_SmoothnessTextureChannel": 0.0,
       "_SoftLight": 0.0,
       "_SoftLightWidth": 0.1,
@@ -693,7 +537,7 @@
       "_SpecSocketTotalNumberOfBones": 0.0,
       "_SpecialWeaponEmission": 0.0,
       "_SpecularHighlights": 1.0,
-      "_SpecularRange": 0.97,
+      "_SpecularRange": 1.0,
       "_SpecularRange2": 1.0,
       "_SpecularRange3": 1.0,
       "_SpecularRange4": 1.0,
@@ -705,7 +549,7 @@
       "_StretchDistance": 0.0,
       "_StretchPercentage": 0.0,
       "_SymmetryUV": 0.0,
-      "_TabSelection": 4.0,
+      "_TabSelection": 0.0,
       "_ToonSpecular": 0.01,
       "_ToonSpecular2": 0.01,
       "_ToonSpecular3": 0.01,
@@ -813,6 +657,12 @@
         "b": 0.0,
         "a": 0.0
       },
+      "_CharacterMainLightData1": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 0.0
+      },
       "_Color": {
         "r": 1.0,
         "g": 1.0,
@@ -865,24 +715,24 @@
         "r": 0.0,
         "g": 0.0,
         "b": 0.0,
-        "a": 0.0
+        "a": 1.0
       },
       "_EmissionColor2": {
-        "r": 0.0,
-        "g": 0.0,
-        "b": 0.0,
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
         "a": 1.0
       },
       "_EmissionColor3": {
-        "r": 9.316131,
-        "g": 2.632828,
-        "b": 12.894107,
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
         "a": 1.0
       },
       "_EmissionColor4": {
-        "r": 0.0,
-        "g": 0.0,
-        "b": 0.0,
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
         "a": 1.0
       },
       "_EmissionColor5": {
@@ -988,9 +838,9 @@
         "a": 1.0
       },
       "_MatCapColorTint2": {
-        "r": 0.3372549,
-        "g": 0.6392157,
-        "b": 0.7843138,
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
         "a": 1.0
       },
       "_MatCapColorTint3": {
@@ -1024,13 +874,13 @@
         "a": 1.0
       },
       "_MatCapParams": {
-        "r": 1.0,
-        "g": 1.0,
+        "r": 3.0,
+        "g": 0.2,
         "b": 0.0,
         "a": 0.0
       },
       "_MatCapParams2": {
-        "r": 0.49,
+        "r": 1.0,
         "g": 1.0,
         "b": 0.0,
         "a": 0.0
@@ -1048,8 +898,8 @@
         "a": 0.0
       },
       "_MatCapParams5": {
-        "r": 3.0,
-        "g": 0.2,
+        "r": 1.0,
+        "g": 1.0,
         "b": 0.0,
         "a": 0.0
       },
@@ -1057,13 +907,13 @@
         "r": 100.0,
         "g": 0.0,
         "b": 0.5,
-        "a": 0.0
+        "a": 1.0
       },
       "_MatCapReractParams2": {
         "r": 100.0,
         "g": 0.0,
         "b": 0.5,
-        "a": 1.0
+        "a": 0.0
       },
       "_MatCapReractParams3": {
         "r": 100.0,
@@ -1081,7 +931,7 @@
         "r": 100.0,
         "g": 0.0,
         "b": 0.5,
-        "a": 1.0
+        "a": 0.0
       },
       "_MiddlePointPosition": {
         "r": 0.0,
@@ -1091,8 +941,8 @@
       },
       "_OutlineColor": {
         "r": 1.0,
-        "g": 0.597202,
-        "b": 0.597202,
+        "g": 1.0,
+        "b": 1.0,
         "a": 1.0
       },
       "_OutlineColor2": {
@@ -1131,6 +981,12 @@
         "b": 1.0,
         "a": 1.0
       },
+      "_OverrideMainLightBody": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 1.0,
+        "a": 0.0
+      },
       "_OverrideMainLightColor": {
         "r": 1.0,
         "g": 1.0,
@@ -1160,6 +1016,18 @@
         "g": 1.0,
         "b": 1.0,
         "a": 1.0
+      },
+      "_OverrideMainLightDir": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "_OverrideMainLightHair": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 1.0,
+        "a": 0.0
       },
       "_OverrideOutlineColor": {
         "r": 0.0,
@@ -1294,15 +1162,15 @@
         "a": 0.0
       },
       "_RimGlowLightColor": {
-        "r": 1.0,
-        "g": 1.0,
-        "b": 1.0,
+        "r": 0.55,
+        "g": 0.55,
+        "b": 0.55,
         "a": 1.0
       },
       "_RimGlowLightColor2": {
-        "r": 0.5520116,
-        "g": 0.5520116,
-        "b": 0.5520116,
+        "r": 0.55,
+        "g": 0.55,
+        "b": 0.55,
         "a": 1.0
       },
       "_RimGlowLightColor3": {
@@ -1312,9 +1180,9 @@
         "a": 1.0
       },
       "_RimGlowLightColor4": {
-        "r": 0.5520116,
-        "g": 0.5520116,
-        "b": 0.5520116,
+        "r": 0.55,
+        "g": 0.55,
+        "b": 0.55,
         "a": 1.0
       },
       "_RimGlowLightColor5": {
@@ -1366,13 +1234,13 @@
         "a": 0.0
       },
       "_ShadowColor": {
-        "r": 0.87843144,
-        "g": 0.8000001,
-        "b": 0.8000001,
+        "r": 0.6,
+        "g": 0.6,
+        "b": 0.6,
         "a": 1.0
       },
       "_ShadowColor2": {
-        "r": 0.6862745,
+        "r": 0.7176471,
         "g": 0.6784314,
         "b": 0.8000001,
         "a": 1.0
@@ -1384,9 +1252,9 @@
         "a": 1.0
       },
       "_ShadowColor4": {
-        "r": 0.80392164,
-        "g": 0.83921576,
-        "b": 0.8588236,
+        "r": 0.6,
+        "g": 0.6,
+        "b": 0.6,
         "a": 1.0
       },
       "_ShadowColor5": {
@@ -1396,14 +1264,14 @@
         "a": 1.0
       },
       "_ShallowColor": {
-        "r": 0.9215687,
-        "g": 0.8862746,
-        "b": 0.8862746,
+        "r": 0.8000001,
+        "g": 0.8000001,
+        "b": 0.8000001,
         "a": 1.0
       },
       "_ShallowColor2": {
-        "r": 0.8352942,
-        "g": 0.8117648,
+        "r": 0.854902,
+        "g": 0.8470589,
         "b": 0.90196085,
         "a": 1.0
       },
@@ -1414,9 +1282,9 @@
         "a": 1.0
       },
       "_ShallowColor4": {
-        "r": 0.87843144,
-        "g": 0.909804,
-        "b": 0.92549026,
+        "r": 0.8,
+        "g": 0.8,
+        "b": 0.8,
         "a": 1.0
       },
       "_ShallowColor5": {
@@ -1516,9 +1384,9 @@
         "a": 1.0
       },
       "_SpecularColor2": {
-        "r": 0.10224175,
-        "g": 0.12213881,
-        "b": 0.40197787,
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
         "a": 1.0
       },
       "_SpecularColor3": {
@@ -1528,9 +1396,9 @@
         "a": 1.0
       },
       "_SpecularColor4": {
-        "r": 0.65837497,
-        "g": 0.93011117,
-        "b": 0.93011117,
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
         "a": 1.0
       },
       "_SpecularColor5": {
@@ -1556,9 +1424,39 @@
         "g": 1.0,
         "b": 1.0,
         "a": 1.0
+      },
+      "_UISunColor": {
+        "r": 1.0,
+        "g": 0.92,
+        "b": 0.9,
+        "a": 1.0
+      },
+      "_UISunColor2": {
+        "r": 1.0,
+        "g": 0.92,
+        "b": 0.9,
+        "a": 1.0
+      },
+      "_UISunColor3": {
+        "r": 1.0,
+        "g": 0.92,
+        "b": 0.9,
+        "a": 1.0
+      },
+      "_UISunColor4": {
+        "r": 1.0,
+        "g": 0.92,
+        "b": 0.9,
+        "a": 1.0
+      },
+      "_UISunColor5": {
+        "r": 1.0,
+        "g": 0.92,
+        "b": 0.9,
+        "a": 1.0
       }
     }
   },
-  "m_Name": "MAT_Promeia_Body_2",
-  "Name": "MAT_Promeia_Body_2"
+  "m_Name": "MAT_Promeia_Hair_T_UI",
+  "Name": "MAT_Promeia_Hair_T_UI"
 }
