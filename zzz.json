@@ -679,9 +679,9 @@
         "gender": "Female",
         "region": "Universal",
         "rarity": 6,
-        "directory": "zzz/chars/Remielle",
-        "image": "zzz/ZZZ/Remielle.png",
-        "pmx": "Remielle.pmx"
+        "directory": "zzz/chars/Ramiel",
+        "image": "zzz/ZZZ/Ramiel.png",
+        "pmx": "Ramiel.pmx"
     },
 	{
         "id": 30000057,
