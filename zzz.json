@@ -638,17 +638,29 @@
 	{
         "id": 30000053,
 		"name": "Promeia",
-        "weaponType": "Universal",
-        "element": "Universal",
+        "weaponType": "Anomaly",
+        "element": "Ice",
         "gender": "Female",
-        "region": "Universal",
-        "rarity": 6,
+        "region": "Krampus Compliance Authority",
+        "rarity": 5,
         "directory": "zzz/chars/Promeia",
         "image": "zzz/ZZZ/Promeia.png",
         "pmx": "Promeia.pmx"
     },
 	{
         "id": 30000054,
+		"name": "Starlight - Billy",
+        "weaponType": "Rupture",
+        "element": "Physical",
+        "gender": "Male",
+        "region": "Cunning Hares",
+        "rarity": 5,
+        "directory": "zzz/chars/Starlight - Billy",
+        "image": "zzz/ZZZ/Starlight - Billy.png",
+        "pmx": "Starlight - Billy.pmx"
+    },
+	{
+        "id": 30000055,
 		"name": "Norma",
         "weaponType": "Universal",
         "element": "Universal",
@@ -660,7 +672,7 @@
         "pmx": "Norma.pmx"
     },
 	{
-        "id": 30000055,
+        "id": 30000056,
 		"name": "Velina",
         "weaponType": "Universal",
         "element": "Universal",
@@ -672,7 +684,7 @@
         "pmx": "Velina.pmx"
     },
 	{
-        "id": 30000056,
+        "id": 30000057,
 		"name": "Ramiel",
         "weaponType": "Universal",
         "element": "Universal",
@@ -684,7 +696,7 @@
         "pmx": "Ramiel.pmx"
     },
 	{
-        "id": 30000057,
+        "id": 30000058,
 		"name": "Severian Lowell",
         "weaponType": "Universal",
         "element": "Universal",
