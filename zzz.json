@@ -662,11 +662,11 @@
 	{
         "id": 30000055,
 		"name": "Norma",
-        "weaponType": "Universal",
-        "element": "Universal",
+        "weaponType": "Stun",
+        "element": "Fire",
         "gender": "Female",
-        "region": "Universal",
-        "rarity": 6,
+        "region": "External Strategy Department",
+        "rarity": 5,
         "directory": "zzz/chars/Norma",
         "image": "zzz/ZZZ/Norma.png",
         "pmx": "Norma.pmx"
@@ -674,17 +674,29 @@
 	{
         "id": 30000056,
 		"name": "Velina",
-        "weaponType": "Universal",
-        "element": "Universal",
+        "weaponType": "Anomaly",
+        "element": "Wind",
         "gender": "Female",
-        "region": "Universal",
-        "rarity": 6,
+        "region": "External Strategy Department",
+        "rarity": 5,
         "directory": "zzz/chars/Velina",
         "image": "zzz/ZZZ/Velina.png",
         "pmx": "Velina.pmx"
     },
 	{
         "id": 30000057,
+		"name": "Pyrois",
+        "weaponType": "Attack",
+        "element": "Ether",
+        "gender": "Universal",
+        "region": "Phaethon",
+        "rarity": 5,
+        "directory": "zzz/chars/Pyrois",
+        "image": "zzz/ZZZ/Pyrois.png",
+        "pmx": "Pyrois.pmx"
+    },
+	{
+        "id": 30000060,
 		"name": "Remielle Dan",
         "weaponType": "Universal",
         "element": "Universal",
@@ -696,7 +708,7 @@
         "pmx": "Remielle.pmx"
     },
 	{
-        "id": 30000058,
+        "id": 30000061,
 		"name": "Severian Lowell",
         "weaponType": "Universal",
         "element": "Universal",
