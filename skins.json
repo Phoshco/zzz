@@ -312,6 +312,18 @@
         "pmx": "Promeia_nojacket.pmx"
     },
 	{
+        "id": 30000027,
+		"name": "Hoshimi Miyabi",
+        "weaponType": "Anomaly",
+        "element": "Ice",
+        "gender": "Female",
+        "region": "Section 6",
+        "rarity": 5,
+        "directory": "zzz/chars/Hoshimi Miyabi/Miyabi_skin",
+        "image": "zzz/ZZZ/Hoshimi Miyabi.png",
+        "pmx": "Hoshimi Miyabi.pmx"
+    },
+	{
         "id": 3000004,
 		"name": "Sweety",
         "weaponType": "Universal",
