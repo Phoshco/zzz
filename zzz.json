@@ -826,5 +826,17 @@
         "directory": "zzz/chars/Cecilia",
         "image": "zzz/ZZZ/Cecilia.png",
         "pmx": "Cecilia.pmx"
+    },
+    {
+        "id": 3000009,
+		"name": "Kasa",
+        "weaponType": "Universal",
+        "element": "Universal",
+        "gender": "Female",
+        "region": "Universal",
+        "rarity": 6,
+        "directory": "zzz/chars/Kasa",
+        "image": "zzz/ZZZ/Kasa.png",
+        "pmx": "Kasa.pmx"
     }
 ]
