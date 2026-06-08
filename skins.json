@@ -346,5 +346,17 @@
         "directory": "zzz/chars/Ye Shiyuan/Ye Shiyuan_alter",
         "image": "zzz/ZZZ/Ye Shiyuan.png",
         "pmx": "Ye Shiyuan.pmx"
+    },
+    {
+        "id": 30000010,
+        "name": "Lucy",
+        "weaponType": "Support",
+        "element": "Fire",
+        "gender": "Female",
+        "region": "Sons of Calydon",
+        "rarity": 4,
+        "directory": "zzz/chars/Lucy/Lucy_skin",
+        "image": "zzz/ZZZ/Lucy.png",
+        "pmx": "Lucy.pmx"
     }
 ]
