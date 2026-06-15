@@ -48,6 +48,30 @@
         "pmx": "Girl A.pmx"
     },
 	{
+        "id": 30000700,
+        "name": "Belle",
+        "weaponType": "Universal",
+        "element": "Universal",
+        "gender": "Female",
+        "region": "Proxies",
+        "rarity": 5,
+        "directory": "zzz/chars/Belle/Belle_Stars",
+        "image": "zzz/ZZZ/Belle.png",
+        "pmx": "Belle.pmx"
+    },
+    {
+        "id": 30000701,
+        "name": "Wise",
+        "weaponType": "Universal",
+        "element": "Universal",
+        "gender": "Male",
+        "region": "Proxies",
+        "rarity": 5,
+        "directory": "zzz/chars/Wise/Wise_Skies",
+        "image": "zzz/ZZZ/Wise.png",
+        "pmx": "Wise.pmx"
+	},
+	{
         "id": 30000800,
         "name": "Belle",
         "weaponType": "Universal",
@@ -358,5 +382,29 @@
         "directory": "zzz/chars/Lucy/Lucy_skin",
         "image": "zzz/ZZZ/Lucy.png",
         "pmx": "Lucy.pmx"
+    },
+	{
+        "id": 30000060,
+		"name": "Remielle Dan",
+        "weaponType": "Universal",
+        "element": "Universal",
+        "gender": "Female",
+        "region": "Universal",
+        "rarity": 6,
+        "directory": "zzz/chars/Remielle/Remielle_Origin",
+        "image": "zzz/ZZZ/Remielle.png",
+        "pmx": "Remielle.pmx"
+    },
+	{
+        "id": 30000056,
+		"name": "Velina",
+        "weaponType": "Anomaly",
+        "element": "Wind",
+        "gender": "Female",
+        "region": "External Strategy Department",
+        "rarity": 5,
+        "directory": "zzz/chars/Velina/Velina_skin",
+        "image": "zzz/ZZZ/Velina.png",
+        "pmx": "Velina.pmx"
     }
 ]

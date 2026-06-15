@@ -679,7 +679,7 @@
         "gender": "Female",
         "region": "External Strategy Department",
         "rarity": 5,
-        "directory": "zzz/chars/Velina",
+        "directory": "zzz/chars/Velina/Velina",
         "image": "zzz/ZZZ/Velina.png",
         "pmx": "Velina.pmx"
     },
@@ -696,6 +696,18 @@
         "pmx": "Pyrois.pmx"
     },
 	{
+        "id": 30000058,
+		"name": "Sigrid",
+        "weaponType": "Universal",
+        "element": "Universal",
+        "gender": "Universal",
+        "region": "Universal",
+        "rarity": 6,
+        "directory": "zzz/chars/Sigrid",
+        "image": "zzz/ZZZ/Sigrid.png",
+        "pmx": "Sigrid.pmx"
+    },
+	{
         "id": 30000060,
 		"name": "Remielle Dan",
         "weaponType": "Universal",
@@ -703,7 +715,7 @@
         "gender": "Female",
         "region": "Universal",
         "rarity": 6,
-        "directory": "zzz/chars/Remielle",
+        "directory": "zzz/chars/Remielle/Remielle",
         "image": "zzz/ZZZ/Remielle.png",
         "pmx": "Remielle.pmx"
     },
@@ -838,5 +850,17 @@
         "directory": "zzz/chars/Kasa",
         "image": "zzz/ZZZ/Kasa.png",
         "pmx": "Kasa.pmx"
+    },
+    {
+        "id": 3000010,
+		"name": "Sunbringer",
+        "weaponType": "Universal",
+        "element": "Universal",
+        "gender": "Female",
+        "region": "Universal",
+        "rarity": 6,
+        "directory": "zzz/chars/Sunbringer/Dracaene",
+        "image": "zzz/ZZZ/Sunbringer.png",
+        "pmx": "Sunbringer.pmx"
     }
 ]
