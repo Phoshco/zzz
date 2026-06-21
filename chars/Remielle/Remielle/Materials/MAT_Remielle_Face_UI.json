@@ -2,7 +2,7 @@
   "m_Shader": {
     "m_FileID": 1,
     "m_PathID": 2497034685900247571,
-    "Name": "",
+    "Name": "miHoYo/Character/NapAvatarUIFace",
     "IsNull": false
   },
   "m_SavedProperties": {
@@ -59,7 +59,7 @@
         "m_Texture": {
           "m_FileID": 2,
           "m_PathID": 6820996180836908343,
-          "Name": "",
+          "Name": "Female_Face_Lightmap_02",
           "IsNull": false
         },
         "m_Scale": {
@@ -322,7 +322,7 @@
       "_StretchDistance": 0.0,
       "_StretchPercentage": 0.0,
       "_Surface": 0.0,
-      "_TabSelection": 0.0,
+      "_TabSelection": 1.0,
       "_TransSpeed": 1.0,
       "_Transition": 0.0,
       "_TransitionCompletion": 0.0,
@@ -562,8 +562,8 @@
       },
       "_OutlineColor": {
         "r": 1.0,
-        "g": 0.597202,
-        "b": 0.597202,
+        "g": 0.5028866,
+        "b": 0.5028866,
         "a": 1.0
       },
       "_OutlineColor2": {
@@ -783,9 +783,9 @@
         "a": 0.0
       },
       "_ShadowColor": {
-        "r": 0.9450981,
-        "g": 0.8980393,
-        "b": 0.8980393,
+        "r": 0.89019614,
+        "g": 0.8000001,
+        "b": 0.8000001,
         "a": 1.0
       },
       "_ShadowColor2": {
@@ -801,9 +801,9 @@
         "a": 1.0
       },
       "_ShallowColor": {
-        "r": 1.0,
-        "g": 0.95686275,
-        "b": 0.9490196,
+        "r": 0.9490196,
+        "g": 0.90196085,
+        "b": 0.90196085,
         "a": 1.0
       },
       "_ShallowColor2": {
