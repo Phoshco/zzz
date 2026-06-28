@@ -703,7 +703,7 @@
         "gender": "Female",
         "region": "Universal",
         "rarity": 5,
-        "directory": "zzz/chars/Sigrid",
+        "directory": "zzz/chars/Sigrid/Sigrid",
         "image": "zzz/ZZZ/Sigrid.png",
         "pmx": "Sigrid.pmx"
     },

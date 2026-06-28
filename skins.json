@@ -406,5 +406,17 @@
         "directory": "zzz/chars/Velina/Velina_skin",
         "image": "zzz/ZZZ/Velina.png",
         "pmx": "Velina.pmx"
+    },
+	{
+        "id": 30000058,
+		"name": "Sigrid",
+        "weaponType": "Attack",
+        "element": "Ice",
+        "gender": "Female",
+        "region": "Universal",
+        "rarity": 5,
+        "directory": "zzz/chars/Sigrid/Sigrid_skin",
+        "image": "zzz/ZZZ/Sigrid.png",
+        "pmx": "Sigrid.pmx"
     }
 ]
