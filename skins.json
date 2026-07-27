@@ -384,7 +384,7 @@
         "pmx": "Lucy.pmx"
     },
 	{
-        "id": 30000060,
+        "id": 30000960,
 		"name": "Remielle Dan",
         "weaponType": "Universal",
         "element": "Universal",
@@ -392,6 +392,18 @@
         "region": "Universal",
         "rarity": 6,
         "directory": "zzz/chars/Remielle/Remielle_Origin",
+        "image": "zzz/ZZZ/Remielle.png",
+        "pmx": "Remielle.pmx"
+    },
+	{
+        "id": 30000060,
+		"name": "Remielle Dan",
+        "weaponType": "Universal",
+        "element": "Universal",
+        "gender": "Female",
+        "region": "Universal",
+        "rarity": 6,
+        "directory": "zzz/chars/Remielle/Remielle_summer",
         "image": "zzz/ZZZ/Remielle.png",
         "pmx": "Remielle.pmx"
     },

@@ -720,7 +720,31 @@
         "pmx": "Remielle.pmx"
     },
 	{
+        "id": 30000060,
+		"name": "Claret",
+        "weaponType": "Universal",
+        "element": "Universal",
+        "gender": "Female",
+        "region": "Universal",
+        "rarity": 6,
+        "directory": "zzz/chars/Claret",
+        "image": "zzz/ZZZ/Claret.png",
+        "pmx": "Claret.pmx"
+    },
+	{
         "id": 30000061,
+		"name": "Lindverne",
+        "weaponType": "Universal",
+        "element": "Universal",
+        "gender": "Female",
+        "region": "Universal",
+        "rarity": 6,
+        "directory": "zzz/chars/Lindverne",
+        "image": "zzz/ZZZ/Lindverne.png",
+        "pmx": "Lindverne.pmx"
+    },
+	{
+        "id": 30000062,
 		"name": "Severian Lowell",
         "weaponType": "Universal",
         "element": "Universal",
