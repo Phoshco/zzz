@@ -722,17 +722,29 @@
 	{
         "id": 30000060,
 		"name": "Claret",
-        "weaponType": "Universal",
-        "element": "Universal",
+        "weaponType": "Armorer",
+        "element": "Electric",
         "gender": "Female",
-        "region": "Universal",
-        "rarity": 6,
+        "region": "Roscaelifer",
+        "rarity": 5,
         "directory": "zzz/chars/Claret",
         "image": "zzz/ZZZ/Claret.png",
         "pmx": "Claret.pmx"
     },
 	{
         "id": 30000061,
+		"name": "Roxy",
+        "weaponType": "Stun",
+        "element": "Wind",
+        "gender": "Female",
+        "region": "Roscaelifer",
+        "rarity": 5,
+        "directory": "zzz/chars/Roxy",
+        "image": "zzz/ZZZ/Roxy.png",
+        "pmx": "Roxy.pmx"
+    },
+	{
+        "id": 30000062,
 		"name": "Lindverne",
         "weaponType": "Universal",
         "element": "Universal",
@@ -744,7 +756,7 @@
         "pmx": "Lindverne.pmx"
     },
 	{
-        "id": 30000062,
+        "id": 30000063,
 		"name": "Severian Lowell",
         "weaponType": "Universal",
         "element": "Universal",
