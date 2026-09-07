@@ -288,7 +288,7 @@
         "pmx": "Aria.pmx"
     },
 	{
-        "id": 30000050,
+        "id": 30000750,
 		"name": "Aria",
         "weaponType": "Universal",
         "element": "Universal",
@@ -300,7 +300,19 @@
         "pmx": "Aria_robot.pmx"
     },
 	{
-        "id": 30000049,
+        "id": 30000050,
+		"name": "Aria",
+        "weaponType": "Universal",
+        "element": "Universal",
+        "gender": "Female",
+        "region": "Universal",
+        "rarity": 6,
+        "directory": "zzz/chars/Aria/AriaIdolCuteness",
+        "image": "zzz/ZZZ/Aria.png",
+        "pmx": "Aria.pmx"
+    },
+	{
+        "id": 30000949,
 		"name": "Sunna",
         "weaponType": "Support",
         "element": "Physical",
@@ -312,7 +324,19 @@
         "pmx": "Sunna.pmx"
     },
 	{
-        "id": 30000051,
+        "id": 30000049,
+		"name": "Sunna",
+        "weaponType": "Support",
+        "element": "Physical",
+        "gender": "Female",
+        "region": "Angels of Delusion",
+        "rarity": 5,
+        "directory": "zzz/chars/Sunna/SummerCuteness",
+        "image": "zzz/ZZZ/Sunna.png",
+        "pmx": "Sunna.pmx"
+    },
+	{
+        "id": 30000951,
 		"name": "Nangong Yu",
         "weaponType": "Stun",
         "element": "Ether",
@@ -320,6 +344,18 @@
         "region": "Angels of Delusion",
         "rarity": 5,
         "directory": "zzz/chars/Nangong Yu/Nangong Yu skin",
+        "image": "zzz/ZZZ/Nangong Yu.png",
+        "pmx": "Nangong Yu.pmx"
+    },
+	{
+        "id": 30000051,
+		"name": "Nangong Yu",
+        "weaponType": "Stun",
+        "element": "Ether",
+        "gender": "Female",
+        "region": "Angels of Delusion",
+        "rarity": 5,
+        "directory": "zzz/chars/Nangong Yu/NangongYuCuteness",
         "image": "zzz/ZZZ/Nangong Yu.png",
         "pmx": "Nangong Yu.pmx"
     },
@@ -430,5 +466,17 @@
         "directory": "zzz/chars/Sigrid/Sigrid_skin",
         "image": "zzz/ZZZ/Sigrid.png",
         "pmx": "Sigrid.pmx"
+    },
+	{
+        "id": 30000062,
+		"name": "Lindverne",
+        "weaponType": "Universal",
+        "element": "Universal",
+        "gender": "Female",
+        "region": "Universal",
+        "rarity": 6,
+        "directory": "zzz/chars/Lindverne/Lindverne_skin",
+        "image": "zzz/ZZZ/Lindverne.png",
+        "pmx": "Lindverne.pmx"
     }
 ]
