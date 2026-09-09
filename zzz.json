@@ -768,6 +768,18 @@
         "pmx": "Severian Lowell.pmx"
     },
 	{
+        "id": 30000064,
+		"name": "Phoenix",
+        "weaponType": "Universal",
+        "element": "Universal",
+        "gender": "Female",
+        "region": "Universal",
+        "rarity": 6,
+        "directory": "zzz/chars/Phoenix",
+        "image": "zzz/ZZZ/Phoenix.png",
+        "pmx": "Phoenix.pmx"
+    },
+	{
         "id": 3000000,
 		"name": "Asha",
         "weaponType": "Universal",
