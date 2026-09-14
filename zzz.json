@@ -745,6 +745,30 @@
     },
 	{
         "id": 30000062,
+		"name": "Severian Lowell",
+        "weaponType": "Attack",
+        "element": "Wind",
+        "gender": "Male",
+        "region": "Public Security: Metropolitan Order Division",
+        "rarity": 5,
+        "directory": "zzz/chars/Severian Lowell",
+        "image": "zzz/ZZZ/Severian Lowell.png",
+        "pmx": "Severian Lowell.pmx"
+    },
+	{
+        "id": 30000063,
+		"name": "Phoenix",
+        "weaponType": "Anomaly",
+        "element": "Fire",
+        "gender": "Female",
+        "region": "Krampus Compliance Authority",
+        "rarity": 5,
+        "directory": "zzz/chars/Phoenix",
+        "image": "zzz/ZZZ/Phoenix.png",
+        "pmx": "Phoenix.pmx"
+    },
+	{
+        "id": 30000064,
 		"name": "Lindverne",
         "weaponType": "Universal",
         "element": "Universal",
@@ -754,30 +778,6 @@
         "directory": "zzz/chars/Lindverne/Lindverne",
         "image": "zzz/ZZZ/Lindverne.png",
         "pmx": "Lindverne.pmx"
-    },
-	{
-        "id": 30000063,
-		"name": "Severian Lowell",
-        "weaponType": "Universal",
-        "element": "Universal",
-        "gender": "Male",
-        "region": "Universal",
-        "rarity": 6,
-        "directory": "zzz/chars/Severian Lowell",
-        "image": "zzz/ZZZ/Severian Lowell.png",
-        "pmx": "Severian Lowell.pmx"
-    },
-	{
-        "id": 30000064,
-		"name": "Phoenix",
-        "weaponType": "Universal",
-        "element": "Universal",
-        "gender": "Female",
-        "region": "Universal",
-        "rarity": 6,
-        "directory": "zzz/chars/Phoenix",
-        "image": "zzz/ZZZ/Phoenix.png",
-        "pmx": "Phoenix.pmx"
     },
 	{
         "id": 3000000,
