@@ -478,5 +478,17 @@
         "directory": "zzz/chars/Lindverne/Lindverne_skin",
         "image": "zzz/ZZZ/Lindverne.png",
         "pmx": "Lindverne.pmx"
+    },
+	{
+        "id": 30000062,
+		"name": "Severian Lowell",
+        "weaponType": "Attack",
+        "element": "Wind",
+        "gender": "Male",
+        "region": "Public Security: Metropolitan Order Division",
+        "rarity": 5,
+        "directory": "zzz/chars/Severian Lowell/NPC",
+        "image": "zzz/ZZZ/Severian Lowell.png",
+        "pmx": "Severian Lowell.pmx"
     }
 ]
