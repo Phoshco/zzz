@@ -753,7 +753,7 @@
         "rarity": 5,
         "directory": "zzz/chars/Severian Lowell/Severian Lowell",
         "image": "zzz/ZZZ/Severian Lowell.png",
-        "pmx": "Severian Lowell.pmx"
+        "pmx": "Severian Lowell.mmd.pmx"
     },
 	{
         "id": 30000063,
@@ -763,7 +763,7 @@
         "gender": "Female",
         "region": "Krampus Compliance Authority",
         "rarity": 5,
-        "directory": "zzz/chars/Phoenix",
+        "directory": "zzz/chars/Phoenix/Phoenix",
         "image": "zzz/ZZZ/Phoenix.png",
         "pmx": "Phoenix.pmx"
     },
@@ -777,7 +777,7 @@
         "rarity": 6,
         "directory": "zzz/chars/Lindverne/Lindverne",
         "image": "zzz/ZZZ/Lindverne.png",
-        "pmx": "Lindverne.pmx"
+        "pmx": "Lindverne.mmd.pmx"
     },
 	{
         "id": 3000000,
