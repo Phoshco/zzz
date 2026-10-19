@@ -780,6 +780,18 @@
         "pmx": "Lindverne.mmd.pmx"
     },
 	{
+        "id": 30000066,
+		"name": "Eldreda Sunbringer",
+        "weaponType": "Universal",
+        "element": "Universal",
+        "gender": "Female",
+        "region": "Universal",
+        "rarity": 6,
+        "directory": "zzz/chars/Sunbringer/Sunbringer",
+        "image": "zzz/ZZZ/Sunbringer.png",
+        "pmx": "Sunbringer.pmx"
+    },
+	{
         "id": 3000000,
 		"name": "Asha",
         "weaponType": "Universal",
@@ -901,14 +913,14 @@
     },
     {
         "id": 3000010,
-		"name": "Sunbringer",
+		"name": "Dracaene",
         "weaponType": "Universal",
         "element": "Universal",
         "gender": "Female",
         "region": "Universal",
         "rarity": 6,
-        "directory": "zzz/chars/Sunbringer/Dracaene",
-        "image": "zzz/ZZZ/Sunbringer.png",
-        "pmx": "Sunbringer.pmx"
+        "directory": "zzz/chars/Dracaene/Dracaene",
+        "image": "zzz/ZZZ/Dracaene.png",
+        "pmx": "Dracaene.pmx"
     }
 ]

@@ -511,8 +511,32 @@
         "gender": "Female",
         "region": "Krampus Compliance Authority",
         "rarity": 5,
-        "directory": "zzz/chars/Phoenix/Phoenix_skin2",
+        "directory": "zzz/chars/Phoenix/Phoenix_skin",
         "image": "zzz/ZZZ/Phoenix.png",
         "pmx": "Phoenix.pmx"
+    },
+	{
+        "id": 30000066,
+		"name": "Eldreda Sunbringer",
+        "weaponType": "Universal",
+        "element": "Universal",
+        "gender": "Female",
+        "region": "Universal",
+        "rarity": 6,
+        "directory": "zzz/chars/Sunbringer/Sunbringer_Moonlit",
+        "image": "zzz/ZZZ/Sunbringer.png",
+        "pmx": "Sunbringer.pmx"
+    },
+    {
+        "id": 3000010,
+		"name": "Dracaene",
+        "weaponType": "Universal",
+        "element": "Universal",
+        "gender": "Female",
+        "region": "Universal",
+        "rarity": 6,
+        "directory": "zzz/chars/Dracaene/Dracaene_Moonlit",
+        "image": "zzz/ZZZ/Dracaene.png",
+        "pmx": "Dracaene.pmx"
     }
 ]
