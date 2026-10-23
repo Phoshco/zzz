@@ -468,7 +468,7 @@
         "pmx": "Sigrid.pmx"
     },
 	{
-        "id": 30000062,
+        "id": 30000065,
 		"name": "Lindverne",
         "weaponType": "Universal",
         "element": "Universal",
@@ -480,7 +480,7 @@
         "pmx": "Lindverne.mmd.pmx"
     },
 	{
-        "id": 30000062,
+        "id": 30000063,
 		"name": "Severian Lowell",
         "weaponType": "Attack",
         "element": "Wind",
@@ -492,7 +492,7 @@
         "pmx": "Severian Lowell.mmd.pmx"
     },
 	{
-        "id": 30000063,
+        "id": 30000062,
 		"name": "Phoenix",
         "weaponType": "Anomaly",
         "element": "Fire",
@@ -504,7 +504,7 @@
         "pmx": "菲欧妮-白.pmx"
     },
 	{
-        "id": 30000963,
+        "id": 30000962,
 		"name": "Phoenix",
         "weaponType": "Anomaly",
         "element": "Fire",
@@ -528,7 +528,7 @@
         "pmx": "Sunbringer.pmx"
     },
     {
-        "id": 3000010,
+        "id": 30000064,
 		"name": "Dracaene",
         "weaponType": "Universal",
         "element": "Universal",

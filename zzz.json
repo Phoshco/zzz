@@ -744,7 +744,7 @@
         "pmx": "Roxy.pmx"
     },
 	{
-        "id": 30000062,
+        "id": 30000063,
 		"name": "Severian Lowell",
         "weaponType": "Attack",
         "element": "Wind",
@@ -756,7 +756,7 @@
         "pmx": "Severian Lowell.mmd.pmx"
     },
 	{
-        "id": 30000063,
+        "id": 30000062,
 		"name": "Phoenix",
         "weaponType": "Anomaly",
         "element": "Fire",
@@ -767,14 +767,26 @@
         "image": "zzz/ZZZ/Phoenix.png",
         "pmx": "Phoenix.pmx"
     },
-	{
+    {
         "id": 30000064,
-		"name": "Lindverne",
-        "weaponType": "Universal",
-        "element": "Universal",
+		"name": "Dracaene",
+        "weaponType": "Armorer",
+        "element": "Fire",
         "gender": "Female",
-        "region": "Universal",
-        "rarity": 6,
+        "region": "Roscaelifer",
+        "rarity": 5,
+        "directory": "zzz/chars/Dracaene/Dracaene",
+        "image": "zzz/ZZZ/Dracaene.png",
+        "pmx": "Dracaene.pmx"
+    },
+	{
+        "id": 30000065,
+		"name": "Lindverne",
+        "weaponType": "Armorer",
+        "element": "Fire",
+        "gender": "Female",
+        "region": "Roscaelifer",
+        "rarity": 5,
         "directory": "zzz/chars/Lindverne/Lindverne",
         "image": "zzz/ZZZ/Lindverne.png",
         "pmx": "Lindverne.mmd.pmx"
@@ -782,11 +794,11 @@
 	{
         "id": 30000066,
 		"name": "Eldreda Sunbringer",
-        "weaponType": "Universal",
-        "element": "Universal",
+        "weaponType": "Armorer",
+        "element": "Fire",
         "gender": "Female",
-        "region": "Universal",
-        "rarity": 6,
+        "region": "Roscaelifer",
+        "rarity": 5,
         "directory": "zzz/chars/Sunbringer/Sunbringer",
         "image": "zzz/ZZZ/Sunbringer.png",
         "pmx": "Sunbringer.pmx"
@@ -910,17 +922,5 @@
         "directory": "zzz/chars/Kasa",
         "image": "zzz/ZZZ/Kasa.png",
         "pmx": "Kasa.pmx"
-    },
-    {
-        "id": 3000010,
-		"name": "Dracaene",
-        "weaponType": "Universal",
-        "element": "Universal",
-        "gender": "Female",
-        "region": "Universal",
-        "rarity": 6,
-        "directory": "zzz/chars/Dracaene/Dracaene",
-        "image": "zzz/ZZZ/Dracaene.png",
-        "pmx": "Dracaene.pmx"
     }
 ]
