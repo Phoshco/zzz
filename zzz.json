@@ -816,18 +816,6 @@
         "pmx": "Robin.pmx"
     },
 	{
-        "id": 30000068,
-		"name": "Kafka (ZZZ)",
-        "weaponType": "Anomaly",
-        "element": "Electric",
-        "gender": "Female",
-        "region": "Universal",
-        "rarity": 5,
-        "directory": "zzz/chars/Kafka",
-        "image": "zzz/ZZZ/Kafka.png",
-        "pmx": "Kafka.pmx"
-    },
-	{
         "id": 3000000,
 		"name": "Asha",
         "weaponType": "Universal",
